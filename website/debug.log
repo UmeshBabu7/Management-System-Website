@@ -59,3 +59,73 @@
 2025-01-30 10:33:14,633 INFO Watching for file changes with StatReloader 668 
 2025-01-30 10:35:14,465 INFO Watching for file changes with StatReloader 668 
 2025-01-30 10:36:00,785 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:38:04,116 INFO C:\Users\00\Desktop\Management-System-Website\website\courses\admin.py changed, reloading. 266 
+2025-01-30 10:38:04,825 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:38:29,824 INFO C:\Users\00\Desktop\Management-System-Website\website\courses\admin.py changed, reloading. 266 
+2025-01-30 10:38:30,504 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:38:34,977 INFO C:\Users\00\Desktop\Management-System-Website\website\courses\admin.py changed, reloading. 266 
+2025-01-30 10:38:35,612 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:38:38,043 INFO C:\Users\00\Desktop\Management-System-Website\website\courses\admin.py changed, reloading. 266 
+2025-01-30 10:38:38,614 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:38:42,055 INFO C:\Users\00\Desktop\Management-System-Website\website\courses\admin.py changed, reloading. 266 
+2025-01-30 10:38:42,707 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:39:42,509 INFO C:\Users\00\Desktop\Management-System-Website\website\admissions\admin.py changed, reloading. 266 
+2025-01-30 10:39:43,215 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:39:53,835 INFO C:\Users\00\Desktop\Management-System-Website\website\admissions\admin.py changed, reloading. 266 
+2025-01-30 10:39:54,620 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:39:57,077 INFO C:\Users\00\Desktop\Management-System-Website\website\admissions\admin.py changed, reloading. 266 
+2025-01-30 10:39:57,766 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:40:01,211 INFO C:\Users\00\Desktop\Management-System-Website\website\admissions\admin.py changed, reloading. 266 
+2025-01-30 10:40:01,894 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:40:04,317 INFO C:\Users\00\Desktop\Management-System-Website\website\admissions\admin.py changed, reloading. 266 
+2025-01-30 10:40:05,017 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:40:22,820 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\admin.py changed, reloading. 266 
+2025-01-30 10:40:23,485 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:40:34,098 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\admin.py changed, reloading. 266 
+2025-01-30 10:40:34,754 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:40:48,445 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\admin.py changed, reloading. 266 
+2025-01-30 10:40:49,146 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:40:51,608 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\admin.py changed, reloading. 266 
+2025-01-30 10:40:52,255 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:40:53,657 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\admin.py changed, reloading. 266 
+2025-01-30 10:40:54,286 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:40:57,750 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\admin.py changed, reloading. 266 
+2025-01-30 10:40:58,376 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:41:30,524 INFO C:\Users\00\Desktop\Management-System-Website\website\instructor_portal\admin.py changed, reloading. 266 
+2025-01-30 10:41:31,201 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:41:34,676 INFO C:\Users\00\Desktop\Management-System-Website\website\instructor_portal\admin.py changed, reloading. 266 
+2025-01-30 10:41:35,398 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:41:37,834 INFO C:\Users\00\Desktop\Management-System-Website\website\instructor_portal\admin.py changed, reloading. 266 
+2025-01-30 10:41:38,534 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:41:57,362 INFO C:\Users\00\Desktop\Management-System-Website\website\job_placement\admin.py changed, reloading. 266 
+2025-01-30 10:41:58,026 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:41:59,420 INFO C:\Users\00\Desktop\Management-System-Website\website\job_placement\admin.py changed, reloading. 266 
+2025-01-30 10:42:00,070 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:42:02,512 INFO C:\Users\00\Desktop\Management-System-Website\website\job_placement\admin.py changed, reloading. 266 
+2025-01-30 10:42:03,196 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:42:28,164 INFO C:\Users\00\Desktop\Management-System-Website\website\blog\admin.py changed, reloading. 266 
+2025-01-30 10:42:28,881 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:42:30,297 INFO C:\Users\00\Desktop\Management-System-Website\website\blog\admin.py changed, reloading. 266 
+2025-01-30 10:42:31,051 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:42:33,491 INFO C:\Users\00\Desktop\Management-System-Website\website\blog\admin.py changed, reloading. 266 
+2025-01-30 10:42:34,256 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:42:54,170 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\admin.py changed, reloading. 266 
+2025-01-30 10:42:54,880 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:42:56,311 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\admin.py changed, reloading. 266 
+2025-01-30 10:42:57,001 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:43:00,468 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\admin.py changed, reloading. 266 
+2025-01-30 10:43:01,186 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:43:03,638 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\admin.py changed, reloading. 266 
+2025-01-30 10:43:04,349 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:43:24,237 INFO C:\Users\00\Desktop\Management-System-Website\website\contacts\admin.py changed, reloading. 266 
+2025-01-30 10:43:24,950 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:43:26,365 INFO C:\Users\00\Desktop\Management-System-Website\website\contacts\admin.py changed, reloading. 266 
+2025-01-30 10:43:27,095 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:43:48,002 INFO C:\Users\00\Desktop\Management-System-Website\website\admission_panel\admin.py changed, reloading. 266 
+2025-01-30 10:43:48,616 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:43:51,072 INFO C:\Users\00\Desktop\Management-System-Website\website\admission_panel\admin.py changed, reloading. 266 
+2025-01-30 10:43:51,714 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:43:54,161 INFO C:\Users\00\Desktop\Management-System-Website\website\admission_panel\admin.py changed, reloading. 266 
+2025-01-30 10:43:54,837 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:47:07,077 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:47:42,585 INFO Watching for file changes with StatReloader 668 
