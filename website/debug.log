@@ -1,3 +1,61 @@
 2025-01-30 10:10:19,243 INFO Watching for file changes with StatReloader 668 
 2025-01-30 10:21:28,422 INFO C:\Users\00\Desktop\Management-System-Website\website\website\settings.py changed, reloading. 266 
 2025-01-30 10:23:33,872 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:26:11,613 INFO C:\Users\00\Desktop\Management-System-Website\website\courses\models.py changed, reloading. 266 
+2025-01-30 10:26:12,180 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:26:43,266 INFO C:\Users\00\Desktop\Management-System-Website\website\admissions\models.py changed, reloading. 266 
+2025-01-30 10:26:43,853 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:27:11,863 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\models.py changed, reloading. 266 
+2025-01-30 10:27:12,484 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:27:26,173 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\models.py changed, reloading. 266 
+2025-01-30 10:27:26,813 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:27:45,617 INFO C:\Users\00\Desktop\Management-System-Website\website\instructor_portal\models.py changed, reloading. 266 
+2025-01-30 10:27:46,197 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:28:32,675 INFO C:\Users\00\Desktop\Management-System-Website\website\job_placement\models.py changed, reloading. 266 
+2025-01-30 10:28:33,366 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:28:49,105 INFO C:\Users\00\Desktop\Management-System-Website\website\blog\models.py changed, reloading. 266 
+2025-01-30 10:28:49,759 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:29:03,431 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\models.py changed, reloading. 266 
+2025-01-30 10:29:04,036 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:29:25,920 INFO C:\Users\00\Desktop\Management-System-Website\website\contacts\models.py changed, reloading. 266 
+2025-01-30 10:29:26,544 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:29:52,539 INFO C:\Users\00\Desktop\Management-System-Website\website\admission_panel\models.py changed, reloading. 266 
+2025-01-30 10:29:53,156 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:30:14,026 INFO C:\Users\00\Desktop\Management-System-Website\website\admission_panel\models.py changed, reloading. 266 
+2025-01-30 10:30:14,628 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:30:16,024 INFO C:\Users\00\Desktop\Management-System-Website\website\admission_panel\models.py changed, reloading. 266 
+2025-01-30 10:30:16,604 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:30:45,681 INFO C:\Users\00\Desktop\Management-System-Website\website\admissions\models.py changed, reloading. 266 
+2025-01-30 10:30:46,349 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:31:01,075 INFO C:\Users\00\Desktop\Management-System-Website\website\blog\models.py changed, reloading. 266 
+2025-01-30 10:31:01,704 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:31:11,291 INFO C:\Users\00\Desktop\Management-System-Website\website\contacts\models.py changed, reloading. 266 
+2025-01-30 10:31:11,915 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:31:23,566 INFO C:\Users\00\Desktop\Management-System-Website\website\instructor_portal\models.py changed, reloading. 266 
+2025-01-30 10:31:24,155 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:31:26,568 INFO C:\Users\00\Desktop\Management-System-Website\website\instructor_portal\models.py changed, reloading. 266 
+2025-01-30 10:31:27,172 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:31:34,701 INFO C:\Users\00\Desktop\Management-System-Website\website\instructor_portal\models.py changed, reloading. 266 
+2025-01-30 10:31:35,299 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:31:46,951 INFO C:\Users\00\Desktop\Management-System-Website\website\job_placement\models.py changed, reloading. 266 
+2025-01-30 10:31:47,629 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:31:58,260 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\models.py changed, reloading. 266 
+2025-01-30 10:31:58,893 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:32:04,377 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\models.py changed, reloading. 266 
+2025-01-30 10:32:04,992 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:32:09,454 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\models.py changed, reloading. 266 
+2025-01-30 10:32:10,032 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:32:12,424 INFO C:\Users\00\Desktop\Management-System-Website\website\student_portal\models.py changed, reloading. 266 
+2025-01-30 10:32:13,079 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:32:27,783 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\models.py changed, reloading. 266 
+2025-01-30 10:32:28,414 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:32:42,924 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\models.py changed, reloading. 266 
+2025-01-30 10:32:43,633 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:32:48,156 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\models.py changed, reloading. 266 
+2025-01-30 10:32:48,890 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:32:53,406 INFO C:\Users\00\Desktop\Management-System-Website\website\testimonials\models.py changed, reloading. 266 
+2025-01-30 10:32:54,076 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:33:13,937 INFO C:\Users\00\Desktop\Management-System-Website\website\courses\models.py changed, reloading. 266 
+2025-01-30 10:33:14,633 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:35:14,465 INFO Watching for file changes with StatReloader 668 
+2025-01-30 10:36:00,785 INFO Watching for file changes with StatReloader 668 
